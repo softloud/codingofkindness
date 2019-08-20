@@ -2,6 +2,7 @@
 title: "Coding of Kindness"
 description: |
   Let’s figure out how to be better humans to each other
+bibliography: biblio.bib
 site: distill::distill_website
 ---
 
@@ -62,7 +63,7 @@ If we add the requirement of proof of malicious intent, as a typical CoC does, t
 
 ### Allyship is not easy
 
-Our world is far from idyllic, especially for those who identify as minorities. A space that is safe and inclusive invites those from other lived experiences. This can be startling in how challenging it is. It can be traumatic to hear others’ stories. But it is unfair to expect others to anticipate what life experiences you will and will not find traumatic to contemplate. We find valuable perspectives on this in the ([Guide to Allyship](http://www.guidetoallyship.com/)):
+Our world is far from idyllic, especially for those who identify as minorities. A space that is safe and inclusive invites those from other lived experiences. This can be startling in how challenging it is. It can be traumatic to hear others’ stories. But it is unfair to expect others to anticipate what life experiences you will and will not find traumatic to contemplate. We find valuable perspectives on this in the ([Guide to Allyship](http://www.guidetoallyship.com/) [@noauthor_guide_nodate]):
 
 
 > Being an ally is hard work. Many of those who want to be allies are scared of making missteps that get them labeled as “-ist” or “-ic” (racist, sexist, transphobic, homophobic, etc). As an ally, you too are affected by a system of oppression. This means that as an ally, there is much to unlearn and learn—mistakes are expected.
@@ -88,7 +89,7 @@ Demeaning language can be a trauma multiplier. Repeated exposure to dehumanisati
 
 This is a topic of much discussion in the [R-Ladies community](https://rladies.org/); in many contexts, from coding to presenting to teaching. How to manage interpersonal relations when repeatedly being dehumanised? 
 
-In particular, when the offense is inadvertent? To illustrate the challenging nuance of inadvertently demeaning language, we consider an example from Melissa McEwan’s thoughtful essay on [Harmful Communication](http://www.shakesville.com/2011/12/harmful-communication-part-one-intent.html).
+In particular, when the offense is inadvertent? To illustrate the challenging nuance of inadvertently demeaning language, we consider an example from Melissa McEwan’s thoughtful essay on [Harmful Communication](http://www.shakesville.com/2011/12/harmful-communication-part-one-intent.html) [@mcewan_harmful_2011].
 
 > Alex has a PhD in Subjectology. Jamie knows that Alex has a PhD in Subjectology, yet, during a discussion of Subject, Jamie, who has an interest in and is reasonably knowledgeable about Subject, condescendingly explains basics of Subject to Alex without regard for Alex's demonstrable proficiency. Alex expresses that Jamie's insistence on explaining basics makes Alex feel as though Jamie does not respect Alex's competency or intellectual capacity. Jamie, whose intent was actually to impress Alex, insists that hir intent was not to make Alex feel that way. Alex makes a valiant attempt to explain why Jamie behaving as though Alex doesn't know the basics of Alex's professional field is disrespectful, at which point Jamie gets miffed, reiterates that the intent was not to make Alex feel bad, accuses Alex of looking for things to get mad about, and misrepresents Alex's good faith attempt to address demeaning language as a personal attack on Jamie.
 
@@ -141,8 +142,13 @@ No matter how hard this is on the instigator, this doesn't mitigate the outcome 
 
 You *do* become the victim in the story, because the response is so extreme. *I don't have to take responsibility for what happened to you*. You *should* ask for support and help, **from others**. 
 
-**But you should not ask the person in distress to take responsibility for your defensiveness, nor vilify them for making you uncomfortable with what life has made them. Remember, your goal was to help make their life a little bit better, not make their day worse.**
+***
 
+But you should not ask the person in distress to take responsibility for your defensiveness, nor vilify them for making you uncomfortable with what life has made them.
+
+Remember, your goal was to help make their life a little bit better, not make their day worse.
+
+***
 Give yourself permission for finding it *hard* to empathise. Give yourself permission to be hurt, even traumatised, and seek *others* with whom you can seek comfort. You will need it. Allyship is hard work.
 
 
