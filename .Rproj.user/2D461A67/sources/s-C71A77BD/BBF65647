@@ -3,22 +3,22 @@
     "path": "~/Documents/repos/codingofkindness/about.Rmd",
     "project_path": "about.Rmd",
     "type": "r_markdown",
-    "hash": "253933116",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1566292877868.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "cursorPosition": "33,217",
+        "cursorPosition": "33,208",
         "scrollLine": "15"
     },
     "folds": "",
-    "lastKnownWriteTime": 1566295851,
+    "lastKnownWriteTime": 1566344623,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1566295851960,
+    "last_content_update": 1566344623805,
     "read_only": false,
     "read_only_alternatives": []
 }

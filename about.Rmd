@@ -31,4 +31,4 @@ c( "Ben Marwick",
 
 ```
 
- There is no way any one person can think of everything that needs to be said for Coding of Kindness. Suggestions and changes are welcomed. To contribute, suggest a change, please create an issue or a pull request on Coding of Kindness [repository]((https://github.com/softloud/codingofkindness)).
+ There is no way any one person can think of everything that needs to be said for Coding of Kindness. Suggestions and changes are welcomed. To contribute, suggest a change, please create an issue or a pull request on Coding of Kindness [repository](https://github.com/softloud/codingofkindness).
