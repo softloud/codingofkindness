@@ -1,0 +1,12 @@
+name: "codingofkindness"
+title: "Coding of Kindness"
+description: |
+  Coding of Kindness
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Coding of Kindness"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

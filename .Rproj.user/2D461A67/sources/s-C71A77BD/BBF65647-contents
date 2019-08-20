@@ -1,0 +1,34 @@
+---
+title: "about"
+description: |
+  Coding of Kindness is a living document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## contributors 
+
+In reproducibly randomised order.
+
+```{r fig.align='center'}
+library(tidyverse)
+
+set.seed(39)
+
+c( "Ben Marwick",
+   "Mathew Ling",
+   "Jen Richmond",
+  "Emily Kothe",
+  "Charles T. Gray"
+) %>% 
+  sample(length(.)) %>% 
+  tibble(contributor = .) %>% 
+  kableExtra::kable(align = "c")
+
+
+```
+
+Please submit a pull request or create an issue on the repository associated with this site to make contributions to [Coding of Kindness](). 
