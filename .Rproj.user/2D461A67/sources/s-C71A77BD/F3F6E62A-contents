@@ -39,11 +39,11 @@ We propose here a Coding of Kindness that addresses how we support those who liv
 
 A Coding of Kindness reframes Code of Conduct to address the trauma of inequality and harassment with the key qualities of:
 
-Focusing on the target experiencing trauma, not perpetrators. 
-Not requiring a perpetrator, nor proof of wrongdoing, nor specific incident.
-Shifting the focus from *prevention* to **recognition** and support of survivors of trauma. 
-Recognising that emotional abuse and demeaning language are inadvertent between people from different life experiences. 
-Recognizing that good intent does not innoculate from wrongdoing. 
+- Focusing on the target experiencing trauma, not perpetrators. 
+- Not requiring a perpetrator, nor proof of wrongdoing, nor specific incident.
+- Shifting the focus from *prevention* to **recognition** and support of survivors of trauma. 
+- Recognising that emotional abuse and demeaning language are inadvertent between people from different life experiences. 
+- Recognizing that good intent does not innoculate from wrongdoing. 
 
 ## Inclusivity and safe spaces
 
@@ -206,7 +206,7 @@ One way to handle this is to adopt the principle of *comfort in, dump out*. The 
 2. Now draw a larger circle around the first one. In this ring, put the name of the person next closest to the crisis.
 3. In each larger ring, put the next closest people. As Silk and Goodman state, “Parents and children before more distant relatives. Intimate friends in smaller rings, less intimate friends in larger ones.” [@sandler_ring_2019]
 
-```{r fig.align='center', fig.cap="From Ring Theory, [@sandler_ring_2019]"}
+```{r fig.align='center', fig.cap="From Ring Theory [@sandler_ring_2019]"}
 
 knitr::include_graphics("figs/ring_of_grief.jpg")
 
