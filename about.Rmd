@@ -22,7 +22,8 @@ c( "Ben Marwick",
    "Mathew Ling",
    "Jen Richmond",
   "Emily Kothe",
-  "Charles T. Gray"
+  "Charles T. Gray",
+  "Brian J. Knaus"
 ) %>% 
   sample(length(.)) %>% 
   tibble(contributor = .) %>% 
