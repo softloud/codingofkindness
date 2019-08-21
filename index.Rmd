@@ -26,7 +26,10 @@ rep(demeaning, n) =
 
 ## What is the purpose of this document?
 
-Many communities seek to create inclusive and productive spaces for their members to work together by documenting their values in a  [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) (CoC).  A typical feature of these codes is a list of behaviours that the community consider to be harassment. The code of conduct is, in part, a declaration of behaviours that the community consider to be unacceptable. The code also details the consequences for members of the community that commit these behaviours.   
+Many communities seek to create inclusive and productive spaces for their members to work together by documenting their values in a  [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) (CoC).  
+A typical feature of these codes is a list of behaviours that the community consider to be harassment. 
+The code of conduct is, in part, a declaration of behaviours that the community considers to be unacceptable. 
+The code also details the consequences for members of the community that commit these behaviours.   
 
 
 This is commendable and necessary. As our communities increase in size and diversity, we cannot assume that all members have the same understanding of what is acceptable and what is not. Documenting our values is useful to ensure they are shared throughout the community. Documenting the consequences for violating those values is useful for giving community members assurance that the community are serious about upholding those values. 
@@ -53,9 +56,12 @@ Our primary objective is to create a **safe** space that is **inclusive**. A per
 
 This reaction is human and understandable. But it’s not inclusive; and it’s not safe for either person in this exchange. 
 
-A safe space is one where people feel *safe* to be themselves. If we make them feel their lived experience a shameful secret that can hurt others, we are dehumanising them.  
+A safe space is one where people feel *safe* to be themselves. 
+If we make them feel their lived experience is a shameful secret that can hurt others, we are dehumanising them.  
 
-Many life experiences expose people to complex combinations of traumatic demeaning and social stigma. Coming out as gay can mean losing your home when your family reject you, in addition to judgements from incidental people encountered. Thus, the original incident of trauma, family rejection, is the beginning of a cascade of traumatic events.
+Many life experiences expose people to complex combinations of traumatic demeaning and social stigma. 
+Coming out as gay can mean losing your home when your family rejects you, in addition to judgements from incidental people encountered. 
+Thus, the original incident of trauma, family rejection, is the beginning of a cascade of traumatic events.
 
 
 If we add the requirement of proof of malicious intent, as a typical CoC does, then we put the person experiencing trauma in an untenable position. They cannot explain the complexity of why they are experiencing the consequences of trauma; they cannot provide a single incident, or a perpetrator. And if they attempt to explain the complexity, they are accused of traumatising others.  
@@ -91,7 +97,11 @@ This is a topic of much discussion in the [R-Ladies community](https://rladies.o
 
 In particular, when the offense is inadvertent? To illustrate the challenging nuance of inadvertently demeaning language, we consider an example from Melissa McEwan’s thoughtful essay on [Harmful Communication](http://www.shakesville.com/2011/12/harmful-communication-part-one-intent.html) [@mcewan_harmful_2011].
 
-> Alex has a PhD in Subjectology. Jamie knows that Alex has a PhD in Subjectology, yet, during a discussion of Subject, Jamie, who has an interest in and is reasonably knowledgeable about Subject, condescendingly explains basics of Subject to Alex without regard for Alex's demonstrable proficiency. Alex expresses that Jamie's insistence on explaining basics makes Alex feel as though Jamie does not respect Alex's competency or intellectual capacity. Jamie, whose intent was actually to impress Alex, insists that hir intent was not to make Alex feel that way. Alex makes a valiant attempt to explain why Jamie behaving as though Alex doesn't know the basics of Alex's professional field is disrespectful, at which point Jamie gets miffed, reiterates that the intent was not to make Alex feel bad, accuses Alex of looking for things to get mad about, and misrepresents Alex's good faith attempt to address demeaning language as a personal attack on Jamie.
+> Alex has a PhD in Subjectology. 
+Jamie knows that Alex has a PhD in Subjectology, yet, during a discussion of Subject, Jamie, who has an interest in and is reasonably knowledgeable about Subject, condescendingly explains basics of Subject to Alex without regard for Alex's demonstrable proficiency. 
+Alex expresses that Jamie's insistence on explaining basics makes Alex feel as though Jamie does not respect Alex's competency or intellectual capacity. 
+Jamie, whose intent was actually to impress Alex, insists that hir [sic] intent was not to make Alex feel that way.
+Alex makes a valiant attempt to explain why Jamie behaving as though Alex doesn't know the basics of Alex's professional field is disrespectful, at which point Jamie gets miffed, reiterates that the intent was not to make Alex feel bad, accuses Alex of looking for things to get mad about, and misrepresents Alex's good faith attempt to address demeaning language as a personal attack on Jamie.
 
 > Thus, what had started out as an inadvertent slight becomes a harmful exchange, as Jamie refuses to acknowledge that the effect of the action irrespective of its intent was hurtful to Alex, and deflects accountability by casting Alex as unreasonable.
 
@@ -164,7 +174,10 @@ rep(demeaning, n) =
 
 It might be surprising to consider that we all have the means to understand survivors of rape and violence, people who live with extreme trauma, because we’ve all been demeaned and dehumanised, ourselves. All that’s required is to raise the stakes, significantly. 
 
-Imagine seeing a paper in publication without your name on it that you feel you contributed significantly enough to for authorship status. It’s easy to imagine how defensive the author might be now matter how good faith your attempt to address your hurt feelings and sense of betrayal. It is not a leap, either, to imagine that the author might double down on trivialising your input. It is not a great leap, sadly, to imagine you would walk away from the encounter feeling dehumanised, unappreciated, and unheard. 
+Imagine seeing a paper in publication without your name on it that you feel you contributed significantly enough to for authorship status. 
+It’s easy to imagine how defensive the author might be no matter how good faith your attempt to address your hurt feelings and sense of betrayal. 
+It is not a leap, either, to imagine that the author might double down on trivialising your input.
+It is not a great leap, sadly, to imagine you would walk away from the encounter feeling dehumanised, unappreciated, and unheard. 
 
 Now imagine that conversation with someone who raped or physically assaulted you. Do you truly believe that abusers are cognisant enough of their abuse to admit to it when confronted? Imagine, too, that your education, financial freedom, housing, or any number of vital things are at risk through this confrontation. Imagine walking away feeling dehumanised, homeless, poor, hungry, and dirty.  
 
@@ -183,7 +196,7 @@ We cannot provide a safe space for survivors with the current ubiquity of harmfu
 
 And in instances where it begets an unintentional offense, the worst possible response is to try to shift accountability to the recipient of the communication.
 
-It's an understandable impulse: Deflecting accountability—that is, asking the listener to be responsible for the genesis of the hurt, because they misunderstood your intent—feels a lot better than being accountable.
+It's an understandable impulse: deflecting accountability—that is, asking the listener to be responsible for the genesis of the hurt, because they misunderstood your intent—feels a lot better than being accountable.
 
 But seeking accountability-free absolution from whom you've wronged, asking to be let off the hook so you can let yourself off the hook, only serves you—it does not serve the person that you've hurt.
 
